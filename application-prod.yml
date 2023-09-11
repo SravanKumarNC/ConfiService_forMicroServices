@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: API-GATEWAY-SERVICE
+    name: API-GATEWAY-SERVICE1
 
   
 
